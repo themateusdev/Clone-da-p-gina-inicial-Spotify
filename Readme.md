@@ -13,4 +13,4 @@
 
 ## Desktop
 
-![](./public/img/Mobile.gif)
+![](./public/img/Desktop.gif)
